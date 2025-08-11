@@ -46,7 +46,7 @@ Resources: *fedesoriano*, [Open Data Toronto City](https://www.toronto.ca/city-g
 
 
 **Figure 1.**
-![Visualization of Toronto city intersections (data collection points) on a map](.toronto_traffic_1.html)
+![Visualization of Toronto city intersections (data collection points) on a map](toronto_traffic_1.html)
 
 
 ## 🧠 Data Visualization
