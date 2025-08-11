@@ -1,6 +1,6 @@
 # Giospatial Data analysis project - Working 
 
-# 🫀 Visualizing traffic on the streets of Toronto
+# Visualizing traffic on the streets of Toronto
 In this project, I aim to hone my skills with analyzing and visualizing geospatial data to tell a story
 
 
