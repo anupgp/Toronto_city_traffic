@@ -76,7 +76,7 @@ This project is designed for:
 | `pandas`       | Data manipulation                        |
 | `numpy`        | Numerical computations                   |
 | `seaborn`, `matplotlib`| Data visualization                 |
-| `plotly', 'Dash` | Interactive GIS plots |
+| `plotly`, `Dash` | Interactive GIS plots |
 
 
 ## Ethical Considerations
